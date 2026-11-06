@@ -1,0 +1,19 @@
+User-agent: facebookexternalhit
+Allow: /
+Allow: /og.jpg
+
+User-agent: Facebot
+Allow: /
+Allow: /og.jpg
+
+User-agent: Twitterbot
+Allow: /
+Allow: /og.jpg
+
+User-agent: TelegramBot
+Allow: /
+Allow: /og.jpg
+
+User-agent: *
+Allow: /
+Allow: /og.jpg
